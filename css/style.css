@@ -15,6 +15,10 @@ h1{
     color: burlywood;
 }
 
+ul{
+    list-style: none;
+}
+
 #pageButton{
-    
+    display: inline-block;
 }
