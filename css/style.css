@@ -16,5 +16,5 @@ h1{
 }
 
 .btn-group{
-    display:block
+    justify-content: center;
 }
