@@ -15,6 +15,6 @@ h1{
     color: burlywood;
 }
 
-#pageButton{
-    align-items: center;
+.btn-group{
+    display:inline-block;
 }
